@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+body{
+    background-image: url(https://images.unsplash.com/photo-1596727147705-61a532a659bd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3Jvb3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+}
+
+button {
+    padding :1rem;
+    text-align: center;
+    margin : 0% 46%; 
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    font-weight:bolder;
+    background-color: #9ACD32;
+    cursor:pointer;
+    font-style: italic;
+}
+textarea{
+    width:90%;
+    height:15vh ;
+    display :block;
+    padding : 1rem 1rem;
+    margin-left : auto;
+    margin-right : auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+#output-txt{
+    border:1px solid black;
+    width:90%;
+    height:10vh ;
+    padding : 1rem 1rem;
+    margin-left : auto;
+    margin-right : auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: white;
+    text-align: centre;
+    font-style: italic;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    background-color: #9ACD32;
+    font-style: italic;
+    height: 10vh;
+    margin:0rem;
+}
+#content{
+    text-align: center;
+    padding: 1rem;
+    font-size: 20px;
+    color:#9ACD32;
+}
+footer{
+    background-color:#9ACD32;
+    text-align: center;
+    margin :5rem 0rem 0rem 0rem; 
+    padding : 0.5rem;
+    font-style: italic;
+    font-size: 20px;
+    
+}
